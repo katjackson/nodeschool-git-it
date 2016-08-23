@@ -1,5 +1,5 @@
-NodeSchool Workshoppers
+NodeSchool Git-it Workshopper
 
-Just flexing my code skills to get in shape for real world challenges.
-
-1. Git-it
+Just flexing my skills to get in shape for real world challenges.
+http://nodeschool.io/
+https://github.com/jlord/git-it
